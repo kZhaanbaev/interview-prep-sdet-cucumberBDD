@@ -1,5 +1,4 @@
 # Interview Questions
-<hr/>
 
 ##### Explain BDD?
 ##### Advantages of Cucumber are?
